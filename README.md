@@ -1,4 +1,4 @@
-# portfolio
+# ![Логотип Porfolio](img/12.jpg)
 
 ## Студент НЕТОЛИГИИ 
 
